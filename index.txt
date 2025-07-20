@@ -1400,7 +1400,7 @@
                     </div>
                     <div id="qr-code-display" class="qr-code-display" style="display: none;">
                         <p>สแกน QR Code เพื่อชำระเงิน:</p>
-                        <img src="https://placehold.co/180x180/E0F2F7/000000?text=QR+Code" alt="QR Code สำหรับชำระเงิน">
+                        <img src="scan.png"/180x180/E0F2F7/000000?text=QR+Code" alt="QR Code สำหรับชำระเงิน">
                         <p style="font-size:0.9em; color:#777;">(รูปภาพ QR Code ตัวอย่าง)</p>
                     </div>
                     <div class="upload-slip">
